@@ -1,2 +1,2 @@
-# TemplateProjectCMake
-A CMake Template Project
+# TemplateProjectMake
+A Make Template Project
